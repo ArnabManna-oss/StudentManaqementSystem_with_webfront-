@@ -1,3 +1,4 @@
+This project is done by Arnab Manna , Kunal Pal, Niketan Pal 
 -Download MySQL.
 -Download TomCat.
 -Run the Setup.py file to create the database & Libraries.
